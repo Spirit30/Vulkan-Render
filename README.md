@@ -4,11 +4,6 @@ GigaEngineDemo is a Vulkan-based rendering engine demo project. It demonstrates 
 
 ![Demo](Demo.gif)
 
-## Features
-
-- Real-time rendering using Vulkan
-- Support for multiple platforms (Windows, Linux, MacOS)
-
 ## Prerequisites
 
 - Vulkan SDK 1.3.275.0
